@@ -1,7 +1,5 @@
-Inhalt
----------------------
+## Inhalt
+1. [Einführung](#einführung)
+2. [Programme](#programme)
+3. [Installation](#installation)
 
- 1. [Einführung] (#Einführung)
- 2. [Programme] (#Programme)
- 3. [Installation] (#Installation)
- 
