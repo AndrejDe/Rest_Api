@@ -1,6 +1,5 @@
-## Table of Contents
+## Rest Api
 1. [General Info](#general-info)
-2. [Technologies](#technologies)
+2. [Welche Programme wurde benutzt](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+
