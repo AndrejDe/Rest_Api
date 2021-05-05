@@ -49,6 +49,7 @@ Darauf wurde eine Konfiguration Datei erstellt, die Spring Framework über das V
 Create Database user_db;
 ```
 Die Tabelle werden später mit der Entity Klasse automatisch erstellt.
+
 5. Im Verzeichnis src / main / java ist ein Paket mit der Klasse "Application". Die Klasse ist der Ausgangspunkt der Anwendung und durch ausführen dieser Klasse wird die Anwendung als Webdienst ausgeführt.
 ```
 package de.andrej.restservice;
