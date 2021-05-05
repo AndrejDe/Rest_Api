@@ -2,10 +2,12 @@
 1. [Einführung](#einführung)
 2. [Programme](#programme)
 3. [Gedankengänge](#gedankengänge)
+4. [Tabelle Endpunkte](#tabelle-endpunkt)
+5. [Was noch gemacht werden muss](#was-noch-gemacht-werden-muss)
 
 ### Einführung
 ***
-Implementieren Sie die in todo.json angegebene Rest-API.
+Die vorgebene JSON Datei (JSON-API-Spezifaktion) legt genau fest, wie die REST-API implementiert werden muss und das habe ich mit der Anwendung versucht.
 
 ## Programme
 ***
@@ -155,6 +157,9 @@ public interface ToDoRepository extends JpaRepository<ToDo, Integer> {
 8. Im Paket de.andrej.restservice.controller im Verzeichnis src / main / java ist eine Klasse "ToDoController".
 Diese Klasse ist als RestController dekoriert und die UserRepository- Instanz wird mithilfe der Annotation @Autowired eingefügt.
 
+## Tabelle Endpunkte
+***
+
 HTTP Methode | URL | Beschreibung
 ------------ | ------------- | -------------
 POST | http://localhost:8080/todo | Erstellt eine neue ID
@@ -162,3 +167,10 @@ GET | http://localhost:8080/todo | Listet alle ID's auf
 GET | http://localhost:8080/todo/{id} |Listet die aufgezählte ID auf
 PUT | http://localhost:8080/todo/{id} | Updated die aufgezählte ID
 DELETE | http://localhost:8080/todo/{id} | Löscht die aufgezählte ID
+
+
+## Was noch gemacht werden muss
+***
+1. Muss die Put-Request noch umgeändert auf eine Patch-Request wo ich noch dranhänge
+2. In der JSON Datei sind noch Responses mit Fehlercodes, die ich noch definieren muss
+3. Das komplete Fronted fehlt
