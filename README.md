@@ -1,7 +1,7 @@
-CONTENTS OF THIS FILE
+Inhalt
 ---------------------
 
- * Einführung (#Einführung)
- * Programme (#Programme)
- * Installation (#Installation)
+ 1. [Einführung] (#Einführung)
+ 2. [Programme] (#Programme)
+ 3. [Installation] (#Installation)
  
