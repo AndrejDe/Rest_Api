@@ -1,5 +1,11 @@
-## Rest Api
-1. [General Info](#general-info)
-2. [Welche Programme wurde benutzt](#technologies)
-3. [Installation](#installation)
+CONTENTS OF THIS FILE
+---------------------
 
+ * Introduction
+ * Requirements
+ * Recommended modules
+ * Installation
+ * Configuration
+ * Troubleshooting
+ * FAQ
+ * Maintainers
