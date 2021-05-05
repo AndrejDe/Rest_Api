@@ -43,6 +43,7 @@ Eine Liste welche Programme ich benutzt habe:
 - passwort: root
 
 Darauf wurde eine Konfiguration Datei erstellt, die Spring Framework über das Verbinden der Datenbank informiert. Die Datei "application.properties" die im src/main/resources Verzeichnis ist. Der Datenbank name lautet "user_db".
+
 4. In diesem Schritt wurde im MySQL Server eine leere Datenbank erstellt mit
 ```
 Create Database user_db;
