@@ -131,6 +131,7 @@ public class ToDo {
 
 ```
 Die Klasse wird mit der Anmerkung @Entity und @Id ausgezeichnet.
+
 7. Es wurde noch ein Paket erstellt de.andrej.restservice.repository im Verzeichnis src / main / java und ein Interface "ToDoRepository".
 Durch die Annotation @RestResource (exported = false), diese Anmerkung weist Spring Boot an, die Methoden nicht als REST-Endpunkte zu exportieren.
 ```
