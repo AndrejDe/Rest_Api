@@ -171,6 +171,6 @@ DELETE | http://localhost:8080/todo/{id} | Löscht die aufgezählte ID
 
 ## Was noch gemacht werden muss
 ***
-1. Muss die Put-Request noch umgeändert auf eine Patch-Request wo ich noch dranhänge
+1. Ich muss die Put-Request noch umgeändert auf eine Patch-Request wo ich noch dranhänge
 2. In der JSON Datei sind noch Responses mit Fehlercodes, die ich noch definieren muss
 3. Das komplete Fronted fehlt
